@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Pra02 {
+public class Soal02 {
     static Scanner scan = new Scanner(System.in);
 
     public static void main(String[] args) {
